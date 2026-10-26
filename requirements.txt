@@ -1,0 +1,25 @@
+
+# Data analysis
+pandas
+numpy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Statistical analysis
+scipy
+
+# Database connectivity
+SQLAlchemy
+psycopg[binary]
+
+# API development
+fastapi[standard]
+
+# Testing
+pytest
+httpx
+
+# Jupyter Notebook
+ipykernel
